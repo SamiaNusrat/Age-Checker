@@ -1,0 +1,220 @@
+body{
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#des{
+    margin-top: 50px;
+    font-family: Cursive, Brush Script MT;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.a-style{
+    text-decoration: none;
+    color: black;
+}
+
+.background{
+    
+    box-shadow: 1px 4px 50px 30px rgb(190, 178, 178);
+    
+    background-image: url("https://img.freepik.com/premium-photo/colorful-watercolor-background-with-white-cloud_664601-6206.jpg");
+    background-repeat: no-repeat;
+    height: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.footer{
+
+}
+.footer:hover{
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+    -moz-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -o-transform: scale(1.02);
+    transition: 300ms;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -ms-transition: 300ms;
+    -o-transition: 300ms;
+}
+
+.quick-link-bg{
+
+}
+
+.card{
+    border: none;
+}
+
+.card1{
+    border: none;
+
+}
+.card1:hover{
+    background-color: transparent;
+    border: none;
+    color:grey !important;
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    transition: 300ms;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -ms-transition: 300ms;
+    -o-transition: 300ms;
+}
+
+
+
+.card2{
+    border: none;
+    align-self: center;
+
+}
+.card2:hover{
+    background-color: transparent;
+    border: none;
+    color:grey !important;
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    transition: 300ms;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -ms-transition: 300ms;
+    -o-transition: 300ms;
+}
+
+
+.card:hover{
+    background-color: transparent;
+    border: none;
+    color:grey !important;
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    transition: 300ms;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -ms-transition: 300ms;
+    -o-transition: 300ms;
+
+    
+}
+
+.social-img:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transition: 300ms;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -ms-transition: 300ms;
+    -o-transition: 300ms;
+    border-style: double;
+}
+
+.nav-background{
+    /*background-color: rgb(238, 219, 219);*/
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-cute-hand-drawn-style-mathematics-education-pink-background-image_337362.jpg");
+    box-shadow: 1px 4px 50px 30px rgb(190, 178, 178);
+}
+
+.hero-bg{
+    background-image: url("https://slidechef.net/wp-content/uploads/2021/10/Free-Google-Slides-Maths-Background.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-control:hover{
+    background-color: pink;
+}
+
+.text-bg{
+    background-color: grey;
+    padding: 30%;
+    border-radius:20%;
+    color: white;
+    -webkit-border-radius:20%;
+    -moz-border-radius:20%;
+    -ms-border-radius:20%;
+    -o-border-radius:20%;
+}
+
+.text-bg:hover{
+    background-color: pink;
+    color: black;
+    transition: 500ms;
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    -ms-transition: 500ms;
+    -o-transition: 500ms;
+}
+
+.name{
+    font-size:larger;
+    font-family: fantasy;
+    color: black;
+    border: 10px 10px 10px 10px;
+
+
+}
+
+.name:hover{
+    transition: 700ms;
+    -webkit-transition: 700ms;
+    -moz-transition: 700ms;
+    -ms-transition: 700ms;
+    -o-transition: 700ms;
+    background-image:url("https://w0.peakpx.com/wallpaper/870/749/HD-wallpaper-math-blackboard-texture-background-with-geometric-shapes-math-background-math-texture-geometric-lines-shapes-texture-mathematics-background.jpg");
+    border-style: dashed;
+
+
+
+    color: white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    transform:scale(0.9) ;
+    -webkit-transform:scale(0.9) ;
+    -moz-transform:scale(0.9) ;
+    -ms-transform:scale(0.9) ;
+    -o-transform:scale(0.9) ;
+}
+
+.img:hover{
+    transition: 500ms;
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    -ms-transition: 500ms;
+    -o-transition: 500ms;
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    border-style: dashed;
+    border-color: white;
+}
